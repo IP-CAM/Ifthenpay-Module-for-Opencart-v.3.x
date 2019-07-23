@@ -15,4 +15,4 @@ See more at [Ifthenpay](https://ifthenpay.com).
 
 # Instructions
 
-Instructions are available inside each folder regarding each version of Prestashop.
+Instructions are available inside each folder regarding each version of Opencart.
