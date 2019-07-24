@@ -7,8 +7,7 @@ class IfthenpayPayshop {
 
     use PayshopHtml, PayshopSql;
     
-    private static $api = 'https://ifthenpay.com/api/payshop/getsandbox';
-    //private static $api = 'https://ifthenpay.com/api/payshop/get';
+    private static $api = 'https://ifthenpay.com/api/payshop/get';
 
     public function makeValidade($validade) {
         return (new DateTime(date("Ymd")))->modify('+' . $validade . 'day')
