@@ -5,6 +5,8 @@ Ifthenpay module for Opencart
 
 **This is the Ifthenpay module for Opencart**
 
+Only versions 3.x
+
 The Payshop reference service allows business customers to create unique payment reference for their users.
 
 Business customers create and place a payment, unique payment references for their users being informed in real time of their payment.
