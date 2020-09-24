@@ -118,7 +118,7 @@ class ControllerExtensionPaymentIfthenpayPayshop extends Controller {
         'payment_ifthenpaypayshop_payshopValidade',
         'payment_ifthenpaypayshop_order_status_id',
         'payment_ifthenpaypayshop_order_status_complete_id',
-        'payment_ifthenpaymbway_geo_zone_id',
+        'payment_ifthenpaypayshop_geo_zone_id',
         'payment_ifthenpaypayshop_status',
         'payment_ifthenpaypayshop_sort_order',
       ));
